@@ -1,0 +1,9 @@
+tweet_index,tweet,toxic_mean_prob,toxic_accuracy_pct,hateful_mean_prob,hateful_accuracy_pct,offensive_mean_prob,offensive_accuracy_pct
+0,I think we should all try to listen to each other's political opinions respectfully.,0.5209207069128752,100.0,0.5852971924468875,100.0,0.5189619259908795,100.0
+1,That new policy is absolutely absurd and makes no sense at all!,0.45308027183637023,100.0,0.5565992090851068,100.0,0.440947525203228,0.0
+2,I can't stand that political party; their supporters are clueless and dangerous.,0.6372280651703477,100.0,60.28008610010147,50.0,23.14176708459854,100.0
+3,Those politicians and everyone who votes for them are disgusting and pathetic.,8.389952592551708,100.0,98.06096255779266,100.0,52.25817710161209,50.0
+4,You are completely wrong and your arguments are nonsense.,0.8546954253688455,0.0,0.7200484396889806,100.0,6.565738935023546,100.0
+5,"You idiot, how can anyone take that politician seriously?!",98.99227023124695,100.0,1.0221742559224367,100.0,99.50157701969147,100.0
+6,I hate that entire party and everything they stand for.,0.9164749877527356,0.0,26.755142956972122,0.0,5.179932340979576,100.0
+7,"I hate you and everyone supporting that corrupt regime, you disgusting fools!",99.38435554504395,100.0,97.94655442237854,100.0,99.52371716499329,100.0
